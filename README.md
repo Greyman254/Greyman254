@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Greyman254
 - 👀 I’m interested in art history
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently developing a C.R.U.D website for my insurance agency
 - 📫 How to reach me lebohang.thuo@gmail.com
 
 <!---
